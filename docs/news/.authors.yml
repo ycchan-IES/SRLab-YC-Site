@@ -1,0 +1,9 @@
+authors:
+  YCChan:
+    name: Yu-Chang Chan        # Author name
+    description: "Research fellow, IESAS" # Author description
+    avatar: url         # Author avatar
+  CWSun:
+    name: Cheng-Wei Sun        # Author name
+    description: "Ph.D student, NTU" # Author description
+    avatar: https://avatars.githubusercontent.com/u/13643055?v=4         # Author avatar

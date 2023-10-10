@@ -1,0 +1,64 @@
+site_name: SRLab, IESAS
+theme:
+    # 設定佈景主題
+    name: material
+    # 字體
+    font:
+        text: "Noto Sans TC"
+
+    # 色彩設定
+    palette:
+        - scheme: default
+          primary: orange
+          accent: indigo
+          toggle:
+              icon: material/toggle-switch 
+              name: Switch to dark mode
+              
+        # Palette toggle for dark mode
+        - scheme: slate
+          toggle:
+              icon: material/toggle-switch-off-outline
+              name: Switch to light mode
+        
+
+        # Palette toggle for light mode
+        
+    # 設定導覽列
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - toc.follow
+        - toc.integrate
+        - navigation.top
+# 頁尾
+copyright: Copyright &copy; 2002 - 2023 SRLab, IESAS, Taiwan
+
+# Blog for abstracts
+plugins:
+  - blog:
+        blog_dir: news
+        blog_toc: true
+        post_dir: "{blog}/articles"
+        post_date_format: medium
+        post_url_date_format: yyyy
+        categories_allowed:
+            - news
+            - publication
+# ICON and emoji
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+
+# ----- Nav list -----
+nav:
+    - SRLab, IESAS: index.md
+    - Principal Investigator: PI.md
+    - Research Topics: Topics.md
+    - Publications : PubList.md
+    - Group Members: GM.md
+    - News: news/index.md
