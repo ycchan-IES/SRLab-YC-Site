@@ -58,7 +58,8 @@ markdown_extensions:
 nav:
     - SRLab, IESAS: index.md
     - Principal Investigator: PI.md
-    - Research Topics: Topics.md
+    - Research Interests: Topics.md
+    - Future Research Plan : FP.md
     - Publications : PubList.md
     - Group Members: GM.md
     - News: news/index.md
