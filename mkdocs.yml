@@ -1,5 +1,8 @@
-site_name: SRLab, IESAS
+site_name: Structural Geology and Remote Sensing Laboratory, IES, Academia Sinica
 theme:
+    # 設定 icon
+    favicon: assets/mountain-sun-solid.svg
+    logo: assets/mountain-sun-solid.svg
     # 設定佈景主題
     name: material
     # 字體
@@ -33,18 +36,18 @@ theme:
         - toc.integrate
         - navigation.top
 # 頁尾
-copyright: Copyright &copy; 2002 - 2023 SRLab, IESAS, Taiwan
+copyright: Copyright &copy; 2002 - 2023 Structural Geology and Remote Sensing Laboratory, Institute of Earth Sciences, Academia Sinica
 
 # Blog for abstracts
 plugins:
   - blog:
-        blog_dir: news
+        blog_dir: outreach
         blog_toc: true
         post_dir: "{blog}/articles"
         post_date_format: medium
         post_url_date_format: yyyy
         categories_allowed:
-            - news
+            - outreach
             - publication
 # ICON and emoji
 markdown_extensions:
@@ -58,8 +61,7 @@ markdown_extensions:
 nav:
     - SRLab, IESAS: index.md
     - Principal Investigator: PI.md
-    - Research Interests: Topics.md
-    - Future Research Plan : FP.md
-    - Publications : PubList.md
+    - Research Topics: Topics.md
     - Group Members: GM.md
-    - News: news/index.md
+    - Publications : PubList.md
+    # - Outreach: outreach/index.md

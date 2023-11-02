@@ -5,7 +5,7 @@ title:  "Principal Investigator"
 **Yu-Chang Chan, Ph.D.,**  
 Research Fellow/ Deputy Director   
 
-## [Research Interests](Topics.md)  
+## [Research Topics](Topics.md)  
 * UAV and LiDAR Data Processing and Applications
 * Geologic Structures & Mountain Building Processes
 * Landslide Characterization, Monitoring and Modeling

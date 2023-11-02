@@ -12,15 +12,15 @@ title: "Group Members"
 ### Graduate Students  
 |Name|Degrees|School|  
 |---|---|---|  
-|Yu-Chen Hsu|M.Sc. Student|Earth Sciences, National Central University|
 |Gopal Kumar|Ph.D. Student|Earth System Sciences, TIGP, Academia Sinica| 
+|Cheng-Wei Sun|Ph.D. Student|Department of Geosciences, National Taiwan University| 
+|Yu-Chen Hsu|M.Sc. Student|Earth Sciences, National Central University|
   
 ### Research Assistants
 |Name|Education|Field|
 |---|---|---|
 |Su-Ching Chou|M.Sc., National Taiwan University|Geology, Sedimentology, Basin Analysis|
 |Chiu-Yeu Lo|M.Sc., National Central University|Remote Sensing, Image Processing, Drone Pilot, LiDAR Post-processing|
-|Cheng-Wei Sun|M.Sc., National Taiwan University|Processing Tool Development, UAV Mission Planning, Drone Pilot and Maintaince, Photogrammetry and LiDAR Post-processing, Website Construction|
   
 ## Former Members  
   

@@ -1,7 +1,7 @@
 ---
 title: "Research Topics"
 ---
-## Major Achievements and Contributions  
+  
 The research topics that I worked with my students range from landslide topography, effective 3D geologic mapping, landslide modeling, and structural geology & continental tectonics. I mainly emphasize on a research direction that requires high-resolution digital elevation models (DEM) for new insights on various topics on surface processes and geologic structures. Here I list four major topics that best represent my recent research contributions.   
   
 ### (I) Applications of multi-period and multi-source high-resolution DEMs for studies of landslide and erosion processes   

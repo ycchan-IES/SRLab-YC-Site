@@ -5,7 +5,7 @@ date:
 authors:
     - CWSun 
 categories:
-    - news
+    - outreach
     # - publication
 ---
 ## Welcome to SRLab Blog
